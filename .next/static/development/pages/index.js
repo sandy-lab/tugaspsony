@@ -14,7 +14,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\asus\\Documents\\sandy psony\\components\\Header.js";
+    _jsxFileName = "C:\\tugaspsony\\components\\Header.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -48,7 +48,7 @@ var Header = function Header(props) {
       columnNumber: 13
     }
   }, "Home")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/tugas",
+    href: "/sandy",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -63,23 +63,7 @@ var Header = function Header(props) {
       lineNumber: 13,
       columnNumber: 13
     }
-  }, "Tugas")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/sandy",
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 15,
-      columnNumber: 9
-    }
-  }, __jsx("a", {
-    style: linkStyle,
-    __self: _this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 13
-    }
-  }, "Sandy Aditya Putra Pradana")));
+  }, "Profil")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Header);
@@ -99,7 +83,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Header__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Header */ "./components/Header.js");
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\asus\\Documents\\sandy psony\\components\\MyLayout.js";
+    _jsxFileName = "C:\\tugaspsony\\components\\MyLayout.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -675,10 +659,10 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Casus%5CDocuments%5Csandy%20psony%5Cpages%5Cindex.js!./":
-/*!*******************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Casus%5CDocuments%5Csandy%20psony%5Cpages%5Cindex.js ***!
-  \*******************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5Ctugaspsony%5Cpages%5Cindex.js!./":
+/*!*************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5Ctugaspsony%5Cpages%5Cindex.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4427,7 +4411,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
 var _this = undefined,
-    _jsxFileName = "C:\\Users\\asus\\Documents\\sandy psony\\pages\\index.js";
+    _jsxFileName = "C:\\tugaspsony\\pages\\index.js";
 
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
@@ -4501,13 +4485,13 @@ var Index = function Index(props) {
 /***/ }),
 
 /***/ 1:
-/*!***********************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Casus%5CDocuments%5Csandy%20psony%5Cpages%5Cindex.js ***!
-  \***********************************************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5Ctugaspsony%5Cpages%5Cindex.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Casus%5CDocuments%5Csandy%20psony%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5Casus%5CDocuments%5Csandy%20psony%5Cpages%5Cindex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5Ctugaspsony%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5Ctugaspsony%5Cpages%5Cindex.js!./");
 
 
 /***/ }),

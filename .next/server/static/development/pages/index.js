@@ -106,7 +106,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\asus\\Documents\\sandy psony\\components\\Header.js";
+var _jsxFileName = "C:\\tugaspsony\\components\\Header.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -138,7 +138,7 @@ const Header = props => __jsx("div", {
     columnNumber: 13
   }
 }, "Home")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "/tugas",
+  href: "/sandy",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -153,23 +153,7 @@ const Header = props => __jsx("div", {
     lineNumber: 13,
     columnNumber: 13
   }
-}, "Tugas")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "/sandy",
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 15,
-    columnNumber: 9
-  }
-}, __jsx("a", {
-  style: linkStyle,
-  __self: undefined,
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 16,
-    columnNumber: 13
-  }
-}, "Sandy Aditya Putra Pradana")));
+}, "Profil")));
 
 /* harmony default export */ __webpack_exports__["default"] = (Header);
 
@@ -187,7 +171,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Header__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Header */ "./components/Header.js");
-var _jsxFileName = "C:\\Users\\asus\\Documents\\sandy psony\\components\\MyLayout.js";
+var _jsxFileName = "C:\\tugaspsony\\components\\MyLayout.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -1907,7 +1891,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_MyLayout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/MyLayout */ "./components/MyLayout.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "C:\\Users\\asus\\Documents\\sandy psony\\pages\\index.js";
+var _jsxFileName = "C:\\tugaspsony\\pages\\index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -1984,7 +1968,7 @@ const Index = props => __jsx(_components_MyLayout__WEBPACK_IMPORTED_MODULE_1__["
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\asus\Documents\sandy psony\pages\index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! C:\tugaspsony\pages\index.js */"./pages/index.js");
 
 
 /***/ }),

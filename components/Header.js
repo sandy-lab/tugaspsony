@@ -10,7 +10,7 @@ const Header = props => (
             <a style={linkStyle}>Home</a>
         </Link>
         <Link href="/sandy">
-            <a style={linkStyle}>Sandy Aditya Putra Pradana</a>
+            <a style={linkStyle}>Profil</a>
         </Link>
     </div>
 );
